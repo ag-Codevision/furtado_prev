@@ -1,0 +1,2 @@
+Deploy automatizado via GitHub Actions realizado com sucesso em: 28/01/2026.
+Se você está vendo este arquivo, o caminho do FTP está correto!
